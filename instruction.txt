@@ -1,1 +1,7 @@
 Le fichiers code.py contient une fonction qui fait la somme de deux nombre. La fonction prend 2 nombre et avec ces nombres, execute l'operation
+
+// creatin de la fonction
+def somme(a, b):
+    print(a + b)
+
+somme(1,3) // appel de le fonction
