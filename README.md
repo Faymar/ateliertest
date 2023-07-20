@@ -1,1 +1,1 @@
-Nous sommes la TEAM DES INDIENS !
+Nous sommes la TEAM DES INDIENS.
