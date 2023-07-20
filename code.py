@@ -1,4 +1,4 @@
-def add(a, b):
+def somme(a, b):
     print(a + b)
 
-add(1,3)
+somme(1,3)
