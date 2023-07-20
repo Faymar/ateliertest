@@ -1,0 +1,1 @@
+Le fichiers code.py contient une fonction qui fait la somme de deux nombre.
